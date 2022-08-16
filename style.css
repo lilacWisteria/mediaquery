@@ -1,0 +1,48 @@
+body {
+  background: #F5E8E4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 2000px){
+  p {
+    color: blue;
+    font-size: 12px;
+  }
+}
+.info-text {
+  font-size: 20px;
+  color: green;
+  padding: 15px;
+}
+
+.peach {
+  width: 40%;
+  background: #F5C7A9;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.red {
+  background: #D1512D;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 40%;
+  color: white;
+}
+
+.burgundy {
+  background: #411530;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 40%;
+  color: white;
+}
