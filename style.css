@@ -9,7 +9,7 @@ body {
 }
 
 
-@media screen and (max-width: 2000px){
+@media screen and (max-width: 600px){
   p {
     color: blue;
     font-size: 12px;
