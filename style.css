@@ -9,9 +9,10 @@ body {
 }
 
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
+@media screen and (max-width: 600px) {
+  .info-text {
+    color: blue;
+    font-size: 12px;
   }
 }
 
